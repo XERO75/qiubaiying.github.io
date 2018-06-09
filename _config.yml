@@ -12,7 +12,11 @@ github_repo: "https://github.com/XERO75/xero75.github.io.git" # you code reposit
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "we live somehow"
+<<<<<<< HEAD
 sidebar-avatar: /img/avater-by.jpg    # use absolute URL, seeing it's used in both `/` and `/about/`
+=======
+sidebar-avatar: /img/siderbar_me.      # use absolute URL, seeing it's used in both `/` and `/about/`
+>>>>>>> b317cb9b50a343b2dd9551cfa2214982c81f0205
 
 
 
